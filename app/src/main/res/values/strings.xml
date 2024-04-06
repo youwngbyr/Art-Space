@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="moth_butterflies">Moth and Butterflies</string>
+    <string name="title">Moth and Butterflies</string>
+    <string name="artist">Youwngbyr and Wolfie</string>
+    <string name="prev">Previous</string>
+    <string name="next">Next</string>
+</resources>
